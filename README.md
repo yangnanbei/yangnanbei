@@ -4,7 +4,7 @@
      If I still remain energy, I will challenge to take **CMU 15-445** this year.
      I already finished **UCB cs61b**.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me -- My email address is `406631132@qq.com`.
 
 <!---
 yangnanbei/yangnanbei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
